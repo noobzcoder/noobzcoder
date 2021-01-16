@@ -11,7 +11,7 @@ This is noobzcoder
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsybai&layout=compact)](https://github.com/arsybai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noobzcoder&layout=compact)](https://github.com/arsybai/github-readme-stats)
 
 
 
